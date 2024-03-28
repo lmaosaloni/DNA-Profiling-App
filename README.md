@@ -3,7 +3,7 @@
 # Introduction
 The DNA Profiling Application is a C++ program designed to help in the identification and analysis of individuals based on their DNA sequences. Utilizing Short Tandem Repeats (STRs), a method commonly used in forensic science, this application can match DNA sequences to individuals in a given database. Additionally, it features a unique command, relative_to, which calculates and displays the closest DNA relative to a specified individual within the database, showcasing the project's creative component.
 
-# Getting Started
+
    # Dependencies
    C++ Compiler (GCC recommended)
    Make (Optional for compilation automation)
